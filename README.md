@@ -1,3 +1,3 @@
-Github Page Link
+ラングトンの蟻をHTMLのCanvasで表示するプログラム（習作）
 
-https://oogarasu-raven0.github.io/Langton-s-ant-canvas/
+Github Page Link: https://oogarasu-raven0.github.io/Langton-s-ant-canvas/
